@@ -18,7 +18,7 @@ class ProfilesController < ApplicationController
     else
       render action :new
     end
-  end
+  celend
   
   private
     def profile_params
