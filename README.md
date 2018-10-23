@@ -7,6 +7,6 @@ Dev-Match is a web application that connects entrepreneurs with developers. Buil
 # Features
 + User authentication using Devise.
 + Bootstrap
-+ Payment subcriptions using Stripe.
++ Payment processing using Stripe.
 + Deployed to heroku, add-ons Mailgun
 
